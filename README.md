@@ -1,0 +1,2 @@
+# cli-fastapi
+fastapi project
